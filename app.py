@@ -28,5 +28,5 @@ while True:
         else:
             continue
     else:
-        print("Select menu between 0 - 4")
+        print("Select menu in range 0 - 4")
         continue
